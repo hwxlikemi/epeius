@@ -1,4 +1,4 @@
-name: Obfuscate and Commit
+name: Automatic encryption script
 
 on:
     #push:
